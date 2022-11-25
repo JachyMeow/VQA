@@ -1,2 +1,2 @@
 # VQE
-[rQCNN.ipynb](.%2FrQCNN.ipynb) is the reversed process of QCNN. 1D TFIM is used as an example.
+[MERA.ipynb](.%2FMERA.ipynb) takes 1D TFIM as an example.
